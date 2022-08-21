@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783068355510",
+    "project_id": "find-my-ticket",
+    "storage_bucket": "find-my-ticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783068355510:android:476a7d002b09ed1fac3f17",
+        "android_client_info": {
+          "package_name": "com.safayildirim.findmyticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783068355510-m2h0uciengr3soilmkjeerf5umi0fv5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNnfLZzDMq0eEhvZ_hNu4Ni25Cywuuh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783068355510-m2h0uciengr3soilmkjeerf5umi0fv5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
